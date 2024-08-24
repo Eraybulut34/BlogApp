@@ -1,0 +1,11 @@
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/bin/Debug/net8.0/Application.deps.json
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/bin/Debug/net8.0/Application.dll
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/bin/Debug/net8.0/Application.pdb
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.dll
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.pdb
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/ref/Application.dll

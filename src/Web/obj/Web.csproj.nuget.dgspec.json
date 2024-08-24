@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abdullaheraybulut/Desktop/BlogApp/src/Web/Web.csproj": {}
+  },
+  "projects": {
+    "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj",
+        "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
+        "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullaheraybulut/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
+        "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
+        "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullaheraybulut/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
+        "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullaheraybulut/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdullaheraybulut/Desktop/BlogApp/src/Web/Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Web/Web.csproj",
+        "projectName": "Web",
+        "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Web/Web.csproj",
+        "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
+        "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullaheraybulut/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj": {
+                "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj"
+              },
+              "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj": {
+                "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj"
+              },
+              "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
