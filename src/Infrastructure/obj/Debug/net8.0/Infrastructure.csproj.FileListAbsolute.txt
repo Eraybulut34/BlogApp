@@ -5,6 +5,7 @@
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
