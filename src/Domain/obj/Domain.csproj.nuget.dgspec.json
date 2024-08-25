@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
-        "projectName": "Domain",
+        "projectName": "CleanArchitecture.Domain",
         "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
         "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
         "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/",
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

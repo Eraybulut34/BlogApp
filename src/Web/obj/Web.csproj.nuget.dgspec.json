@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj",
-        "projectName": "Application",
+        "projectName": "CleanArchitecture.Application",
         "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj",
         "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
         "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/",
@@ -25,7 +25,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj": {
+                "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -42,6 +46,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -66,7 +88,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
-        "projectName": "Domain",
+        "projectName": "CleanArchitecture.Domain",
         "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
         "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
         "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/",
@@ -100,6 +122,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -124,7 +152,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj",
-        "projectName": "Infrastructure",
+        "projectName": "CleanArchitecture.Infrastructure",
         "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
         "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/",
@@ -141,7 +169,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj": {
+                "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -158,6 +190,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -182,7 +240,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Web/Web.csproj",
-        "projectName": "Web",
+        "projectName": "CleanArchitecture.Web",
         "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Web/Web.csproj",
         "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
         "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Web/obj/",
@@ -202,9 +260,6 @@
             "projectReferences": {
               "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj": {
                 "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj"
-              },
-              "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj": {
-                "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj"
               },
               "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj": {
                 "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj"
@@ -226,6 +281,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
