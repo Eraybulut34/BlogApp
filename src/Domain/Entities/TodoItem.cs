@@ -1,4 +1,5 @@
-﻿using CleanArchitecture.Domain.Common;
+﻿using System;
+using CleanArchitecture.Domain.Common;
 
 namespace CleanArchitecture.Domain.Entities;
 
