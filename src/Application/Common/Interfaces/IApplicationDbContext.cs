@@ -1,6 +1,9 @@
-﻿using CleanArchitecture.Domain.Entities;
+﻿using System.Threading;
+using System.Threading.Tasks;
+using BlogAppDomain.Entities;
+using Microsoft.EntityFrameworkCore;
 
-namespace CleanArchitecture.Application.Common.Interfaces;
+namespace BlogAppApplication.Common.Interfaces;
 
 public interface IApplicationDbContext
 {

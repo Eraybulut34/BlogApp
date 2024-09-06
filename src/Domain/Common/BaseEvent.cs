@@ -1,6 +1,6 @@
 ﻿using MediatR;
 
-namespace CleanArchitecture.Domain.Common;
+namespace BlogAppDomain.Common;
 
 public abstract class BaseEvent
 {

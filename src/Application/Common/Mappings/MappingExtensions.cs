@@ -1,6 +1,9 @@
-﻿using CleanArchitecture.Application.Common.Models;
+﻿using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using BlogAppApplication.Common.Models;
 
-namespace CleanArchitecture.Application.Common.Mappings;
+namespace BlogAppApplication.Common.Mappings;
 
 public static class MappingExtensions
 {
@@ -8,5 +11,5 @@ public static class MappingExtensions
         => PaginatedList<TDestination>.CreateAsync(queryable.AsNoTracking(), pageNumber, pageSize);
 
     public static Task<List<TDestination>> ProjectToListAsync<TDestination>(this IQueryable queryable, IConfigurationProvider configuration) where TDestination : class
-        => queryable.ProjectTo<TDestination>(configuration).AsNoTracking().ToListAsync();
+        => queryable.ProjectToListAsync<TDestination>(configuration);
 }

@@ -1,4 +1,8 @@
-﻿namespace CleanArchitecture.Application.Common.Models;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace BlogAppApplication.Common.Models;
 
 public class Result
 {

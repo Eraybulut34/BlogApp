@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
-        "projectName": "CleanArchitecture.Domain",
+        "projectName": "BlogAppDomain",
         "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
         "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
         "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/",

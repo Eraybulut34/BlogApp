@@ -1,7 +1,7 @@
 ﻿using System;
-using CleanArchitecture.Domain.Common;
+using BlogAppDomain.Common;
 
-namespace CleanArchitecture.Domain.Entities;
+namespace BlogAppDomain.Entities;
 
 public class TodoItem : BaseAuditableEntity
 {

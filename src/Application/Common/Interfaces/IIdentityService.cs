@@ -1,6 +1,7 @@
-﻿using CleanArchitecture.Application.Common.Models;
+﻿using System.Threading.Tasks;
+using BlogAppApplication.Common.Models;
 
-namespace CleanArchitecture.Application.Common.Interfaces;
+namespace BlogAppApplication.Common.Interfaces;
 
 public interface IIdentityService
 {

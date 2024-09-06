@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace CleanArchitecture.Domain.Common;
+namespace BlogAppDomain.Common;
 
 public abstract class BaseEntity
 {

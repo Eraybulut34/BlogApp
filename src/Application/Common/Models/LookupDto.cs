@@ -1,6 +1,6 @@
-﻿using CleanArchitecture.Domain.Entities;
+﻿using BlogAppDomain.Entities;
 
-namespace CleanArchitecture.Application.Common.Models;
+namespace BlogAppApplication.Common.Models;
 
 public class LookupDto
 {

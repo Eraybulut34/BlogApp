@@ -1,4 +1,10 @@
-﻿namespace CleanArchitecture.Application.Common.Models;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+
+namespace BlogAppApplication.Common.Models;
 
 public class PaginatedList<T>
 {

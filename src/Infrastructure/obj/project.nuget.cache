@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ozt9qG3Ql2k=",
+  "dgSpecHash": "Vh3HhFwepUg=",
   "success": true,
   "projectFilePath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,9 @@
     "/Users/abdullaheraybulut/.nuget/packages/automapper/1.1.0.118/automapper.1.1.0.118.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/fluentvalidation/8.2.2/fluentvalidation.8.2.2.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/fluentvalidation.dependencyinjectionextensions/8.2.2/fluentvalidation.dependencyinjectionextensions.8.2.2.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/mediatr/0.1.0/mediatr.0.1.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.aspnetcore.authentication/1.0.0/microsoft.aspnetcore.authentication.1.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.aspnetcore.authentication.cookies/1.0.0/microsoft.aspnetcore.authentication.cookies.1.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.aspnetcore.cryptography.internal/1.0.0/microsoft.aspnetcore.cryptography.internal.1.0.0.nupkg.sha512",
@@ -26,30 +28,32 @@
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/1.0.0/microsoft.aspnetcore.identity.entityframeworkcore.1.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.aspnetcore.webutilities/1.0.0/microsoft.aspnetcore.webutilities.1.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/microsoft.entityframeworkcore/1.0.0/microsoft.entityframeworkcore.1.0.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.entityframeworkcore/8.0.8/microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.8/microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.8/microsoft.entityframeworkcore.analyzers.8.0.8.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.entityframeworkcore.design/1.0.1/microsoft.entityframeworkcore.design.1.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.entityframeworkcore.relational/1.0.0/microsoft.entityframeworkcore.relational.1.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.entityframeworkcore.relational.design/1.0.1/microsoft.entityframeworkcore.relational.design.1.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.entityframeworkcore.tools/1.0.0/microsoft.entityframeworkcore.tools.1.0.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.caching.abstractions/1.0.0/microsoft.extensions.caching.abstractions.1.0.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.caching.memory/1.0.0/microsoft.extensions.caching.memory.1.0.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.configuration.abstractions/1.0.0/microsoft.extensions.configuration.abstractions.1.0.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.dependencyinjection/1.0.0/microsoft.extensions.dependencyinjection.1.0.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.fileproviders.abstractions/1.0.0/microsoft.extensions.fileproviders.abstractions.1.0.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.logging/1.0.0/microsoft.extensions.logging.1.0.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.logging.abstractions/1.0.0/microsoft.extensions.logging.abstractions.1.0.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.objectpool/1.0.0/microsoft.extensions.objectpool.1.0.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.options/1.0.0/microsoft.extensions.options.1.0.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.primitives/1.0.0/microsoft.extensions.primitives.1.0.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.extensions.webencoders/1.0.0/microsoft.extensions.webencoders.1.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.net.http.headers/1.0.0/microsoft.net.http.headers.1.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.win32.primitives/4.0.1/microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/microsoft.win32.registry/4.0.0/microsoft.win32.registry.4.0.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/portable.commonservicelocator/1.2.2/portable.commonservicelocator.1.2.2.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/remotion.linq/2.1.1/remotion.linq.2.1.1.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512",
+    "/Users/abdullaheraybulut/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.4/npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/runtime.native.system/4.0.0/runtime.native.system.4.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/runtime.native.system.net.http/4.0.1/runtime.native.system.net.http.4.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/runtime.native.system.security.cryptography/4.0.0/runtime.native.system.security.cryptography.4.0.0.nupkg.sha512",
@@ -57,7 +61,6 @@
     "/Users/abdullaheraybulut/.nuget/packages/system.buffers/4.0.0/system.buffers.4.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.collections/4.0.11/system.collections.4.0.11.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.collections.concurrent/4.0.12/system.collections.concurrent.4.0.12.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/system.collections.immutable/1.2.0/system.collections.immutable.1.2.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.collections.nongeneric/4.0.1/system.collections.nongeneric.4.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.collections.specialized/4.0.1/system.collections.specialized.4.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.componentmodel/4.0.1/system.componentmodel.4.0.1.nupkg.sha512",
@@ -74,13 +77,11 @@
     "/Users/abdullaheraybulut/.nuget/packages/system.globalization/4.0.11/system.globalization.4.0.11.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.globalization.calendars/4.0.1/system.globalization.calendars.4.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.globalization.extensions/4.0.1/system.globalization.extensions.4.0.1.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/system.interactive.async/3.0.0/system.interactive.async.3.0.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.io/4.1.0/system.io.4.1.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.io.filesystem/4.0.1/system.io.filesystem.4.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.io.filesystem.primitives/4.0.1/system.io.filesystem.primitives.4.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.linq/4.1.0/system.linq.4.1.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.linq.expressions/4.1.0/system.linq.expressions.4.1.0.nupkg.sha512",
-    "/Users/abdullaheraybulut/.nuget/packages/system.linq.queryable/4.0.1/system.linq.queryable.4.0.1.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.net.http/4.1.0/system.net.http.4.1.0.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.net.primitives/4.0.11/system.net.primitives.4.0.11.nupkg.sha512",
     "/Users/abdullaheraybulut/.nuget/packages/system.net.websockets/4.0.0/system.net.websockets.4.0.0.nupkg.sha512",
@@ -173,7 +174,7 @@
       "code": "NU1602",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "CleanArchitecture.Application does not provide an inclusive lower bound for dependency Ardalis.GuardClauses. An approximate best match of Ardalis.GuardClauses 1.0.0 was resolved.",
+      "message": "BlogAppApplication does not provide an inclusive lower bound for dependency Ardalis.GuardClauses. An approximate best match of Ardalis.GuardClauses 1.0.0 was resolved.",
       "libraryId": "Ardalis.GuardClauses",
       "targetGraphs": [
         "net8.0"
@@ -183,7 +184,7 @@
       "code": "NU1602",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "CleanArchitecture.Application does not provide an inclusive lower bound for dependency AutoMapper. An approximate best match of AutoMapper 1.1.0.118 was resolved.",
+      "message": "BlogAppApplication does not provide an inclusive lower bound for dependency AutoMapper. An approximate best match of AutoMapper 1.1.0.118 was resolved.",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"
@@ -193,28 +194,18 @@
       "code": "NU1602",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "CleanArchitecture.Application does not provide an inclusive lower bound for dependency FluentValidation.DependencyInjectionExtensions. An approximate best match of FluentValidation.DependencyInjectionExtensions 8.2.2 was resolved.",
+      "message": "BlogAppApplication does not provide an inclusive lower bound for dependency FluentValidation.DependencyInjectionExtensions. An approximate best match of FluentValidation.DependencyInjectionExtensions 8.2.2 was resolved.",
       "libraryId": "FluentValidation.DependencyInjectionExtensions",
       "targetGraphs": [
         "net8.0"
       ]
     },
     {
-      "code": "NU1602",
+      "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "CleanArchitecture.Domain does not provide an inclusive lower bound for dependency MediatR. An approximate best match of MediatR 0.1.0 was resolved.",
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.4.0 was resolved.",
       "libraryId": "MediatR",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1602",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "CleanArchitecture.Application does not provide an inclusive lower bound for dependency Microsoft.EntityFrameworkCore. An approximate best match of Microsoft.EntityFrameworkCore 1.0.0 was resolved.",
-      "libraryId": "Microsoft.EntityFrameworkCore",
       "targetGraphs": [
         "net8.0"
       ]
@@ -225,26 +216,6 @@
       "warningLevel": 1,
       "message": "Package 'AutoMapper 1.1.0.118' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
       "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'MediatR 0.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Portable.CommonServiceLocator 1.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Portable.CommonServiceLocator",
       "targetGraphs": [
         "net8.0"
       ]

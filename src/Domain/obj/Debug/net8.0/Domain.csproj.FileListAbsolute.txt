@@ -1,6 +1,13 @@
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/bin/Debug/net8.0/BlogAppDomain.deps.json
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/bin/Debug/net8.0/BlogAppDomain.dll
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/bin/Debug/net8.0/BlogAppDomain.pdb
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/BlogAppDomain.dll
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/refint/BlogAppDomain.dll
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/BlogAppDomain.pdb
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/Debug/net8.0/ref/BlogAppDomain.dll

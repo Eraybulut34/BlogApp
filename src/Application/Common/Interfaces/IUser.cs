@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Application.Common.Interfaces;
+﻿namespace BlogAppApplication.Common.Interfaces;
 
 public interface IUser
 {

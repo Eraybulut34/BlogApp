@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <RootNamespace>CleanArchitecture.Infrastructure</RootNamespace>
-    <AssemblyName>CleanArchitecture.Infrastructure</AssemblyName>
+    <RootNamespace>BlogAppInfrastructure</RootNamespace>
+    <AssemblyName>BlogAppInfrastructure</AssemblyName>
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>

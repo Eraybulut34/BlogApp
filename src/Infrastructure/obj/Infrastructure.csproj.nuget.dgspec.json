@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj",
-        "projectName": "CleanArchitecture.Application",
+        "projectName": "BlogAppApplication",
         "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/Application.csproj",
         "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
         "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/",
@@ -59,9 +59,31 @@
               "target": "Package",
               "version": "(, )"
             },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
@@ -88,7 +110,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
-        "projectName": "CleanArchitecture.Domain",
+        "projectName": "BlogAppDomain",
         "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/Domain.csproj",
         "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
         "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Domain/obj/",
@@ -152,7 +174,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj",
-        "projectName": "CleanArchitecture.Infrastructure",
+        "projectName": "BlogAppInfrastructure",
         "projectPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/abdullaheraybulut/.nuget/packages/",
         "outputPath": "/Users/abdullaheraybulut/Desktop/BlogApp/src/Infrastructure/obj/",

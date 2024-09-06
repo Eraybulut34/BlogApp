@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using CleanArchitecture.Domain.Common;
+using BlogAppDomain.Common;
 
-namespace CleanArchitecture.Domain.Entities;
+namespace BlogAppDomain.Entities;
 
 public class TodoList : BaseAuditableEntity
 {
