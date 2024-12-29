@@ -1,4 +1,5 @@
-﻿using BlogAppDomain.Entities;
+﻿using AutoMapper;
+using BlogAppDomain.Entities;
 
 namespace BlogAppApplication.Common.Models;
 
@@ -12,8 +13,8 @@ public class LookupDto
     {
         public Mapping()
         {
-            CreateMap<TodoList, LookupDto>();
-            CreateMap<TodoItem, LookupDto>();
+            CreateMap<Post, LookupDto>();
+            CreateMap<Category, LookupDto>();
         }
     }
 }

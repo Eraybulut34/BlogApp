@@ -8,28 +8,37 @@
     ".NETCoreApp,Version=v8.0": {
       "BlogAppDomain/1.0.0": {
         "dependencies": {
-          "MediatR": "0.1.0"
+          "MediatR": "12.2.0"
         },
         "runtime": {
           "BlogAppDomain.dll": {}
         }
       },
-      "MediatR/0.1.0": {
+      "MediatR/12.2.0": {
         "dependencies": {
-          "Portable.CommonServiceLocator": "1.2.2"
+          "MediatR.Contracts": "2.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
         },
         "runtime": {
-          "lib/portable-net40+sl50+wp80+win+MonoAndroid10+MonoTouch10/MediatR.dll": {
-            "assemblyVersion": "0.1.0.0",
-            "fileVersion": "0.1.0.0"
+          "lib/net6.0/MediatR.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.2.0.0"
           }
         }
       },
-      "Portable.CommonServiceLocator/1.2.2": {
+      "MediatR.Contracts/2.0.1": {
         "runtime": {
-          "lib/net35/Microsoft.Practices.ServiceLocation.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
           }
         }
       }
@@ -41,19 +50,26 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MediatR/0.1.0": {
+    "MediatR/12.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-+dQJkXhd9NVnsalQzBgN7euJg/Q0GtRBQu9V8Lnz9Bfex9NpbUYsfrYqLn/SfcNOxa2pDPHPrCeQUSltzue7Cw==",
-      "path": "mediatr/0.1.0",
-      "hashPath": "mediatr.0.1.0.nupkg.sha512"
+      "sha512": "sha512-8TUFrHapKi6D74PhnSNEguRsH91HNGyP3R4ZQdgDorJgl9Wac5Prh0vA33QfrniAaS6L2xNNhc6vxzg+5AIbwA==",
+      "path": "mediatr/12.2.0",
+      "hashPath": "mediatr.12.2.0.nupkg.sha512"
     },
-    "Portable.CommonServiceLocator/1.2.2": {
+    "MediatR.Contracts/2.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-nJ7hY+rJgpRIDJq1+fuJt0z8XfeGkkKOXO+iqyisDi7yBV4R/tb0seXCptkx1XLbPB+6c41hLtIZG+tCkVQukw==",
-      "path": "portable.commonservicelocator/1.2.2",
-      "hashPath": "portable.commonservicelocator.1.2.2.nupkg.sha512"
+      "sha512": "sha512-FYv95bNT4UwcNA+G/J1oX5OpRiSUxteXaUt2BJbRSdRNiIUNbggJF69wy6mnk2wYToaanpdXZdCwVylt96MpwQ==",
+      "path": "mediatr.contracts/2.0.1",
+      "hashPath": "mediatr.contracts.2.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
     }
   }
 }

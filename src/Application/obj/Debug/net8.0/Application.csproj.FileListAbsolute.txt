@@ -1,5 +1,4 @@
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/bin/Debug/net8.0/BlogAppApplication.deps.json
-/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/bin/Debug/net8.0/BlogAppApplication.runtimeconfig.json
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/bin/Debug/net8.0/BlogAppApplication.dll
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/bin/Debug/net8.0/BlogAppApplication.pdb
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/bin/Debug/net8.0/BlogAppDomain.dll
@@ -10,9 +9,8 @@
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.sourcelink.json
-/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/BlogAppApplication.dll
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/refint/BlogAppApplication.dll
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/BlogAppApplication.pdb
-/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.genruntimeconfig.cache
 /Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/ref/BlogAppApplication.dll
+/Users/abdullaheraybulut/Desktop/BlogApp/src/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
